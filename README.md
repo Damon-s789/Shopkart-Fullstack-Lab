@@ -12,7 +12,7 @@ The Vite development server proxies `/api` calls to `http://localhost:5000`, all
 
 To add the included sample catalogue to the configured MongoDB database, run `npm run seed --prefix backend`. It is safe to run more than once and does not create duplicate sample products.
 
-## Razorpay Test Mode (Lab 06)
+## Razorpay Test Mode
 
 Add your Razorpay Test Mode credentials to `backend/.env` before trying Checkout:
 
